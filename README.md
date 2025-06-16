@@ -1,11 +1,10 @@
 # PowerBI_Blinkit_Grocery_Data_Dashboard
+
+This project analyzes Blinkit's grocery sales data using Power BI to uncover insights into product demand, customer behavior, and operational efficiency. It visualizes trends, performance metrics, and category breakdowns to support data-driven decisions.
+
 📊 Dashboard Preview:
 
 Refer Blinkit Grocery Data Project.pdf
-
-📌 Overview:
-
-This project analyzes Blinkit's grocery sales data using Power BI to uncover insights into product demand, customer behavior, and operational efficiency. It visualizes trends, performance metrics, and category breakdowns to support data-driven decisions.
 
 📁 Files Included:
 
